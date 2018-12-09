@@ -1,0 +1,105 @@
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.deps.json
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.dll
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.pdb
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csprojAssemblyReference.cache
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csproj.CoreCompileInputs.cache
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfoInputs.cache
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfo.cs
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
+C:\Users\ugo\source\repos\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.deps.json
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.dll
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.pdb
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csproj.CoreCompileInputs.cache
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfoInputs.cache
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfo.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\TaskProject\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csprojAssemblyReference.cache
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.deps.json
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.dll
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.pdb
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csprojAssemblyReference.cache
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csproj.CoreCompileInputs.cache
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfoInputs.cache
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfo.cs
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
+C:\Users\andeloon\Desktop\Esiea\4eme année\Prog Mobile\ProgrammationMobile4a-master\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
+C:\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.deps.json
+C:\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.dll
+C:\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.pdb
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csprojAssemblyReference.cache
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csproj.CoreCompileInputs.cache
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfoInputs.cache
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfo.cs
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
+C:\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\CompletedPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.deps.json
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.dll
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.pdb
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csprojAssemblyReference.cache
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\CompletedPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csproj.CoreCompileInputs.cache
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfoInputs.cache
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfo.cs
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
+D:\Utilisateur\TAGNATI\Telechargements\TaskProject - Copie\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.deps.json
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.dll
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.pdb
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csprojAssemblyReference.cache
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\CompletedPage.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csproj.CoreCompileInputs.cache
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfoInputs.cache
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfo.cs
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
+C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
