@@ -1,104 +1,104 @@
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\TaskProject.Android.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Java.Interop.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.Connections.Abstractions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.SignalR.Client.Core.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.SignalR.Common.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Data.Sqlite.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Configuration.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Logging.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Options.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Primitives.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Mono.Android.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\mscorlib.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\PCLStorage.Abstractions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\PCLStorage.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Remotion.Linq.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLite-net.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_green.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_v2.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.core.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Buffers.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Collections.Immutable.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Core.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Diagnostics.DiagnosticSource.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Interactive.Async.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.Compression.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.Pipelines.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Memory.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Net.Http.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.Channels.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.Tasks.Extensions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Xml.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\TaskProject.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\netstandard.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Data.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Numerics.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Transactions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Web.Services.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ComponentModel.Annotations.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ComponentModel.DataAnnotations.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.Tasks.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Resources.ResourceManager.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Linq.Expressions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Reflection.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Collections.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ObjectModel.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Linq.Queryable.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Linq.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Globalization.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Diagnostics.Tracing.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Mono.Security.dll
-C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\TaskProject.Android.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Java.Interop.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.Http.Features.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.SignalR.Common.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Data.Sqlite.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Caching.Memory.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Configuration.Binder.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Configuration.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.DependencyInjection.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Logging.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Options.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Microsoft.Extensions.Primitives.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Mono.Android.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\mscorlib.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\PCLStorage.Abstractions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\PCLStorage.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Remotion.Linq.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLite-net.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_green.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.core.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Buffers.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Collections.Immutable.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Core.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Diagnostics.DiagnosticSource.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Interactive.Async.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.Compression.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.Pipelines.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Memory.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Net.Http.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.Channels.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.Tasks.Extensions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Xml.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\TaskProject.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\netstandard.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Data.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Numerics.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Transactions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Web.Services.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ComponentModel.Annotations.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ComponentModel.DataAnnotations.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.IO.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Resources.ResourceManager.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Linq.Expressions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Reflection.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Collections.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.ObjectModel.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Linq.Queryable.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Linq.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Threading.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Globalization.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Diagnostics.Tracing.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\Mono.Security.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.dll

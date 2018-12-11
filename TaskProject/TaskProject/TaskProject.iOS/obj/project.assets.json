@@ -7860,11 +7860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject.iOS\\TaskProject.iOS.csproj",
+      "projectUniqueName": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject.iOS\\TaskProject.iOS.csproj",
       "projectName": "TaskProject.iOS",
-      "projectPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject.iOS\\TaskProject.iOS.csproj",
+      "projectPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject.iOS\\TaskProject.iOS.csproj",
       "packagesPath": "C:\\Users\\TAGNATI\\.nuget\\packages\\",
-      "outputPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject.iOS\\obj\\",
+      "outputPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -7881,8 +7881,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj": {
-              "projectPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj"
+            "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj": {
+              "projectPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj"
             }
           }
         }

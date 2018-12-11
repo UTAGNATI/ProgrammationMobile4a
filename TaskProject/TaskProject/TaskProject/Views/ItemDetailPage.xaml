@@ -3,10 +3,32 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TaskProject.Views.ItemDetailPage"
              Title="{Binding Title}">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Modify" Clicked="ModifyItem_Clicked">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="UWP" Value="add.png"/>
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    
     <StackLayout Spacing="20" Padding="15">
         <Label Text="Text:" FontSize="Medium" />
         <Label Text="{Binding Item.Text}" FontSize="Small"/>
         <Label Text="Description:" FontSize="Medium" />
         <Label Text="{Binding Item.Description}" FontSize="Small"/>
+        
+        <Label Text="Company" FontSize="Medium" />
+        <Label Text="{Binding Item.Company}" FontSize="Small" />
+        <Label Text="DeadLine" FontSize="Medium" />
+        <Label Text="{Binding Item.DeadLine}" FontSize="Small" />
+        
+        <Label Text="Number of participants" FontSize="Medium" />
+        <Label Text="{Binding Item.NbOfParticipants}" FontSize="Small" />
+        <Label Text="Participants" FontSize="Medium" />
+        <Label Text="{Binding Item.Participants}" FontSize="Small" />
+        <Label Text="Priority" FontSize="Medium" />
+        <Label Text="{Binding Item.Prioti}" FontSize="Small" />
     </StackLayout>
 </ContentPage>

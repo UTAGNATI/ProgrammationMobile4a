@@ -48,8 +48,6 @@ namespace TaskProject.Services
                 oldItem = db.FindWithQuery<Item>("SELECT * FROM Items WHERE id= ?",id);
 
                 db.Delete(oldItem);
-
-                
             }
 
             return await Task.FromResult(true);

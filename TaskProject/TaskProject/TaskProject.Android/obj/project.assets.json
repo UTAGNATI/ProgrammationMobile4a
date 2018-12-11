@@ -5192,11 +5192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject.Android\\TaskProject.Android.csproj",
+      "projectUniqueName": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject.Android\\TaskProject.Android.csproj",
       "projectName": "TaskProject.Android",
-      "projectPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject.Android\\TaskProject.Android.csproj",
+      "projectPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject.Android\\TaskProject.Android.csproj",
       "packagesPath": "C:\\Users\\TAGNATI\\.nuget\\packages\\",
-      "outputPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject.Android\\obj\\",
+      "outputPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -5213,8 +5213,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj": {
-              "projectPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj"
+            "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj": {
+              "projectPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj"
             }
           }
         }

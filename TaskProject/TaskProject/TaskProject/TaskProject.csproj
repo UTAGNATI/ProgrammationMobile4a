@@ -20,6 +20,9 @@
     <Compile Update="Views\CompletedPage.xaml.cs">
       <DependentUpon>CompletedPage.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\ModifyItemPage.xaml.cs">
+      <DependentUpon>ModifyItemPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>

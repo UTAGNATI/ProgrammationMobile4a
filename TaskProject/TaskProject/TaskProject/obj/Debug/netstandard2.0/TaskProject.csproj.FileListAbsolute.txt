@@ -103,3 +103,22 @@ C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\n
 C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
 C:\Users\TAGNATI\Desktop\TaskProject - Copie\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csprojAssemblyReference.cache
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\CompletedPage.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.csproj.CoreCompileInputs.cache
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfoInputs.cache
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.AssemblyInfo.cs
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\TaskProject.pdb
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.deps.json
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.dll
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\bin\Debug\netstandard2.0\TaskProject.pdb
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAGNATI\source\repos\ProgrammationMobile4a\TaskProject\TaskProject\TaskProject\obj\Debug\netstandard2.0\Views\ModifyItemPage.xaml.g.cs

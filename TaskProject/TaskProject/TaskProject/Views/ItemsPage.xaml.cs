@@ -80,30 +80,11 @@ namespace TaskProject.Views
 
 				db.Update(selectedItem);
 				MessagingCenter.Send(this, "DoneItem", selectedItem);
-				MessagingCenter.Send(this, "DoneItem", selectedItem);
 
                 Debug.WriteLine("This item has been completed : " + selectedItem.Text + " " + selectedItem.Description + " " + selectedItem.Completed);
             }
 
-            //await viewModel.ExecuteDeleteCommand(selectedItem);
-
-            /*lock (locker)
-            {
-                var db = new SQLiteConnection(dbPath);
-                var newItems = new Item();
-
-                db.CreateTable<Item>();
-
-                Console.WriteLine("Reading data because button clicked\n");
-                var table = db.Table<Item>();
-                foreach (var s in table)
-                {
-                    Console.WriteLine("item: " +s.Id + " " + s.Text + " " + s.Description + " " + s.Completed +"\n");
-                }
-            }*/
-            
-
-            // Manually deselect item.
+        
             ItemsListView.SelectedItem = null;
         }
     }

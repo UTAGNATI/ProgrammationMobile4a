@@ -20,6 +20,11 @@ namespace TaskProject.Views
             BindingContext = this.viewModel = viewModel;
         }
 
+        async void ModifyItem_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new NavigationPage(new ModifyItemPage(viewModel)));
+        }
+
         public ItemDetailPage()
         {
             InitializeComponent();

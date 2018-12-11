@@ -3243,11 +3243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj",
+      "projectUniqueName": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj",
       "projectName": "TaskProject",
-      "projectPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj",
+      "projectPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject\\TaskProject.csproj",
       "packagesPath": "C:\\Users\\TAGNATI\\.nuget\\packages\\",
-      "outputPath": "D:\\TAGNATI\\source\\repos\\TaskProject\\TaskProject\\TaskProject\\obj\\",
+      "outputPath": "D:\\TAGNATI\\source\\repos\\ProgrammationMobile4a\\TaskProject\\TaskProject\\TaskProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

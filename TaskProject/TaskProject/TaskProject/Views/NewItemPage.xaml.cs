@@ -45,7 +45,12 @@ namespace TaskProject.Views
                 db.CreateTable<Item>();
 
                 newItem.Text = this.Item.Text;
+                newItem.Company = this.Item.Company;
                 newItem.Description = this.Item.Description;
+                newItem.DeadLine = this.Item.DeadLine;
+                newItem.NbOfParticipants = this.Item.NbOfParticipants;
+                newItem.Participants = this.Item.Participants;
+                newItem.Priority = this.Item.Priority;
 				newItem.Completed = false;
 
                 db.Insert(newItem); //insert a new element in the table Items
