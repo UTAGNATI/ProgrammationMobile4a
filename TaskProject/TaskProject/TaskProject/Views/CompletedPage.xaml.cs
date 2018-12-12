@@ -46,7 +46,13 @@ namespace TaskProject.Views
             base.OnAppearing();
 
             if (viewModel.CompletedItems.Count == 0)
+            {
+                //ne rien faire
+            }
+            else {
                 viewModel.LoadItemsCommand.Execute(null);
+            }
+                
         }
 
 		async void Button_Clicked(object sender, EventArgs e)

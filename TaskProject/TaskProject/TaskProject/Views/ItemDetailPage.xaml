@@ -14,21 +14,25 @@
     </ContentPage.ToolbarItems>
     
     <StackLayout Spacing="20" Padding="15">
-        <Label Text="Text:" FontSize="Medium" />
+        <Label Text="Title:" Font="Bold,20" />
         <Label Text="{Binding Item.Text}" FontSize="Small"/>
-        <Label Text="Description:" FontSize="Medium" />
+        <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />
+        <Label Text="Description:" Font="Bold,20" />
         <Label Text="{Binding Item.Description}" FontSize="Small"/>
-        
-        <Label Text="Company" FontSize="Medium" />
+        <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />
+        <Label Text="Company:" Font="Bold,20" />
         <Label Text="{Binding Item.Company}" FontSize="Small" />
-        <Label Text="DeadLine" FontSize="Medium" />
+        <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />
+        <Label Text="DeadLine:" Font="Bold,20" />
         <Label Text="{Binding Item.DeadLine}" FontSize="Small" />
-        
-        <Label Text="Number of participants" FontSize="Medium" />
+        <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />
+        <Label Text="Number of participants:" Font="Bold,20" />
         <Label Text="{Binding Item.NbOfParticipants}" FontSize="Small" />
-        <Label Text="Participants" FontSize="Medium" />
+        <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />
+        <Label Text="Participants:" Font="Bold,20" />
         <Label Text="{Binding Item.Participants}" FontSize="Small" />
-        <Label Text="Priority" FontSize="Medium" />
-        <Label Text="{Binding Item.Prioti}" FontSize="Small" />
+        <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />
+        <Label Text="Priority:" Font="Bold,20" />
+        <Label Text="{Binding Item.Priority}" FontSize="Small" />
     </StackLayout>
 </ContentPage>

@@ -5,6 +5,7 @@ using Xamarin.Forms.Xaml;
 
 using TaskProject.Models;
 using TaskProject.ViewModels;
+using System.Runtime.CompilerServices;
 
 namespace TaskProject.Views
 {
