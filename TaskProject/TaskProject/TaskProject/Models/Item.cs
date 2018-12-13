@@ -13,7 +13,8 @@ namespace TaskProject.Models
         public string Text { get; set; } //Title
         public string Company { get; set; }
         public string Description { get; set; }
-        public string DeadLine { get; set; }
+        public DateTime StartingDate { set; get; }
+        public DateTime DeadLine { get; set; }
         public int NbOfParticipants { get; set; }
         public string Participants { get; set; }
         public int Priority { get; set; } //sort by priority

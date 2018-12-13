@@ -27,6 +27,8 @@
             <Entry Text="{Binding Item.Text}" FontSize="Small" />
             <Label Text="Company" FontSize="Medium" />
             <Entry Text="{Binding Item.Company}" FontSize="Small" />
+            <Label Text="Starting" FontSize="Medium" />
+            <Entry Text="{Binding Item.Starting}" FontSize="Small" />
             <Label Text="DeadLine" FontSize="Medium" />
             <Entry Text="{Binding Item.DeadLine}" FontSize="Small" />
             <Label Text="Description" FontSize="Medium" />

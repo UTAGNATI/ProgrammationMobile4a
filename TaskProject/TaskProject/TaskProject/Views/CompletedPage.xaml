@@ -18,19 +18,24 @@
 			<ListView.ItemTemplate>
 				<DataTemplate>
 					<ViewCell>
-						<StackLayout Padding="10">
-							<Label Text="{Binding Text}" 
+                        <FlexLayout Direction="Row">
+                            <StackLayout FlexLayout.AlignSelf="Start" Padding="10">
+                                <Label Text="{Binding Text}" 
                                 LineBreakMode="NoWrap" 
                                 Style="{DynamicResource ListItemTextStyle}" 
-                                FontSize="16" />
-							<Label Text="{Binding Description}" 
+                                Font="Bold, 18" />
+                                <Label Text="{Binding Description}" 
                                 LineBreakMode="NoWrap"
+                                WidthRequest="270"
                                 Style="{DynamicResource ListItemDetailTextStyle}"
-                                FontSize="13" />
-							<Button Text="Delete" Clicked="Button_Clicked" CommandParameter="{Binding .}" 
-                                    BackgroundColor="Aqua"/>
-						</StackLayout>
-					</ViewCell>
+                                FontSize="15" />
+                            </StackLayout>
+                            <StackLayout FlexLayout.AlignSelf="End" Padding="10">
+                                <Button Text="Done" Clicked="Button_Clicked" CommandParameter="{Binding .}" 
+                                            BackgroundColor="Aqua" />
+                            </StackLayout>
+                        </FlexLayout>
+                    </ViewCell>
 				</DataTemplate>
 			</ListView.ItemTemplate>
 		</ListView>

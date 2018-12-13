@@ -23,6 +23,8 @@
         <Label Text="Company:" Font="Bold,20" />
         <Label Text="{Binding Item.Company}" FontSize="Small" />
         <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />
+        <Label Text="StartingDate:" Font="Bold,20" />
+        <Label Text="{Binding Item.StartingDate}" FontSize="Small" />
         <Label Text="DeadLine:" Font="Bold,20" />
         <Label Text="{Binding Item.DeadLine}" FontSize="Small" />
         <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand" />

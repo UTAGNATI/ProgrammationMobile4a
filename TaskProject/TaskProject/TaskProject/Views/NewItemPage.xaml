@@ -27,8 +27,10 @@
             <Entry Text="{Binding Item.Text}" FontSize="Small" />
             <Label Text="Company" FontSize="Medium" />
             <Entry Text="{Binding Item.Company}" FontSize="Small" />
+            <Label Text="StartingDate" FontSize="Medium" />
+            <DatePicker Date="{Binding Item.StartingDate}" FontSize="Small" />
             <Label Text="DeadLine" FontSize="Medium" />
-            <Entry Text="{Binding Item.DeadLine}" FontSize="Small" />
+            <DatePicker Date="{Binding Item.DeadLine}" FontSize="Small" />
             <Label Text="Description" FontSize="Medium" />
             <Editor Text="{Binding Item.Description}" FontSize="Small" Margin="0" />
             <Label Text="Number of participants" FontSize="Medium" />

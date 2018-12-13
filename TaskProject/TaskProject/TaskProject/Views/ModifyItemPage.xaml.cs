@@ -46,6 +46,7 @@ namespace TaskProject.Views
                 newItem.Text = this.viewModel.Item.Text;
                 newItem.Company = this.Item.Company;
                 newItem.Description = this.Item.Description;
+                newItem.StartingDate = this.Item.StartingDate;
                 newItem.DeadLine = this.Item.DeadLine;
                 newItem.NbOfParticipants = this.Item.NbOfParticipants;
                 newItem.Participants = this.Item.Participants;
